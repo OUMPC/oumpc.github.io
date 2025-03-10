@@ -255,12 +255,12 @@ function chunkString(str, chunkSize) {
 
 // Slide
 
-const img_number = 15;
+const img_number = 17;
 
 function initCommonSlider() {
     const commonSlider = document.querySelector('#wd_common');
     if (!commonSlider) return;
-    for (let i = 0; i < img_number; i++) {
+    for (let i = img_number -1 ; i >= 0 ; i--) {
         const imgPath = `/src/asset/image/common/slide_${i}.jpg`;
         const slideDiv = document.createElement('div');
         slideDiv.className = 'slide can_open';

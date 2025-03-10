@@ -10,36 +10,36 @@
     ],
     "chuNhiem": [
         {
-            "name": "Nguyễn Thanh Triều",
-            "fb": "https://www.facebook.com/konnn.1011/",
-            "avatar":"./src/asset/image/members/trieu.nt.jpg",
-            "email":"2251052127trieu@ou.edu.vn"
+            "name": "Nguyễn Duy Hoàng",
+            "fb": "https://www.facebook.com/profile.php?id=100075239804613",
+            "avatar":"./src/asset/image/members/hoang.nd.jpg",
+            "email":"2351010064hoang@ou.edu.vn"
         },
         {
-            "name": "Võ Thị Huyền",
-            "fb": "https://www.facebook.com/profile.php?id=100076291026434",
-            "avatar":"./src/asset/image/members/huyen.vt.jpg",
-            "email":"2254052033huyen@ou.edu.vn"
+            "name": "Huỳnh Văn Quế Khoa",
+            "fb": "https://www.facebook.com/khoadanghocit",
+            "avatar":"./src/asset/image/members/khoa.hvq.jpg",
+            "email":"2351050081khoa@ou.edu.vn"
         },
         {
-            "name":"Nguyễn Hữu Khang",
-            "fb":"https://www.facebook.com/profile.php?id=100027165953225",
-            "avatar":"./src/asset/image/members/khang.nh.jpg",
-            "email":"2251052050khang@ou.edu.vn"
+            "name":"Phạm Đức Thắng",
+            "fb":"https://www.facebook.com/pham.thang.92439",
+            "avatar":"./src/asset/image/members/thang.pd.jpg",
+            "email":"2451052243thang@ou.edu.vn"
         }
     ],
     "lapTrinh":[
         {
-            "name": "Phan Lê Hồ",
-            "fb": "https://www.facebook.com/lehodev",
-            "avatar":"./src/asset/image/members/ho.pl.jpg",
-            "email":"2051052051ho@ou.edu.vn"
+            "name": "Ngô Nguyễn Phương Đông",
+            "fb": "https://www.facebook.com/xris.kaizku",
+            "avatar":"./src/asset/image/members/dong.nnp.jpg",
+            "email":"2451052059dong@ou.edu.vn"
         },
         {
-            "name": "Tsàn Quý Thành",
-            "fb": "https://www.facebook.com/quythanh2205",
-            "avatar":"./src/asset/image/members/thanh.tq.jpg",
-            "email":"2151013089thanh@ou.edu.vn"
+            "name": "Ngô Nhật Tuấn",
+            "fb": "https://www.facebook.com/bawp2k6.dev",
+            "avatar":"./src/asset/image/members/tuan.nn.jpg",
+            "email":"2451052277tuan@ou.edu.vn"
         }
     ],
     "hauCan":[
@@ -50,10 +50,10 @@
             "email":"2251010062mai@ou.edu.vn"
         },
         {
-            "name": "Nguyễn Mạnh Cường",
-            "fb": "https://www.facebook.com/nmc.cuongnm",
-            "avatar":"./src/asset/image/members/cuong.nm.jpg",
-            "email":"2051052015cuong@ou.edu.vn"
+            "name": "Trần Võ Thị Thu Uyên",
+            "fb": "https://www.facebook.com/profile.php?id=61550544493918",
+            "avatar":"./src/asset/image/members/uyen.tvtt.jpg",
+            "email":"2354050163uyen@ou.edu.vn"
         }
     ],
     "truyenThong":[
